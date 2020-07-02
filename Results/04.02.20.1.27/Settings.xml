@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Resolution>
+    <Width>1920</Width>
+    <Height>1080</Height>
+  </Resolution>
+  <Level>
+    <DifficultName>Low Level</DifficultName>
+  </Level>
+  <VolumeEffect>1</VolumeEffect>
+  <VolumeMusic>1</VolumeMusic>
+  <Language>Russian</Language>
+  <Controller>
+    <MagicBind>
+      <Power>Z</Power>
+      <Speed>X</Speed>
+      <Area>C</Area>
+      <Stability>V</Stability>
+    </MagicBind>
+    <MovementBind>
+      <Left>A</Left>
+      <Right>D</Right>
+      <Up>W</Up>
+      <Down>S</Down>
+    </MovementBind>
+    <OtherBind>
+      <DeveloperConsoleToggle>F1</DeveloperConsoleToggle>
+      <MenuToggle>Escape</MenuToggle>
+      <DialogueSubmit>Return</DialogueSubmit>
+      <DialogueCancel>Backspace</DialogueCancel>
+    </OtherBind>
+  </Controller>
+</Settings>

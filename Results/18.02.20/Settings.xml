@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Resolution>
+    <Width>2560</Width>
+    <Height>1440</Height>
+  </Resolution>
+  <Level>
+    <DifficultName>Low Level</DifficultName>
+  </Level>
+  <VolumeEffect>0.3</VolumeEffect>
+  <VolumeMusic>0.35</VolumeMusic>
+  <Language>English</Language>
+  <Controller>
+    <MagicBind>
+      <Power>Z</Power>
+      <Speed>X</Speed>
+      <Area>C</Area>
+      <Stability>V</Stability>
+    </MagicBind>
+    <MovementBind>
+      <Left>A</Left>
+      <Right>D</Right>
+      <Up>W</Up>
+      <Down>S</Down>
+      <Swift>Space</Swift>
+    </MovementBind>
+    <OtherBind>
+      <DeveloperConsoleToggle>F1</DeveloperConsoleToggle>
+      <MenuToggle>Escape</MenuToggle>
+      <DialogueSubmit>Return</DialogueSubmit>
+      <DialogueCancel>Backspace</DialogueCancel>
+      <Respawn>R</Respawn>
+    </OtherBind>
+  </Controller>
+</Settings>

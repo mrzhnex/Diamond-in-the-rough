@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Effect
+  - Wall/Other
+  - Enemy
+  - ButtonResolution
+  - ButtonLevel
+  - GUI
+  - ButtonKeyBinding
+  - Popup
+  - Tilemap
+  - Audio
+  - Entity
+  - Corpse
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Wall/Other
+  - Player
+  - Effect
+  - Entity
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Popup
+    uniqueID: 1044326189
+    locked: 0

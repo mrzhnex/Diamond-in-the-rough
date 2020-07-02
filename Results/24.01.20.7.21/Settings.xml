@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Progress>
+    <CharacterName>Diamond Uncut</CharacterName>
+    <CharacterLevel>1</CharacterLevel>
+    <CharacterMaxSpectrumOrbs>3</CharacterMaxSpectrumOrbs>
+  </Progress>
+  <Resolution>
+    <Width>1280</Width>
+    <Height>1024</Height>
+  </Resolution>
+  <Level>
+    <Level>1</Level>
+    <DifficultName>Low Level</DifficultName>
+    <EnemyCountMultiplier>1</EnemyCountMultiplier>
+    <EnemyHealthMultiplier>1</EnemyHealthMultiplier>
+  </Level>
+  <Name>Diamond Uncut</Name>
+  <VolumeEffect>1</VolumeEffect>
+  <VolumeMusic>0.194514662</VolumeMusic>
+  <Controller>
+    <MagicBind>
+      <Power>Z</Power>
+      <Speed>X</Speed>
+      <Area>C</Area>
+      <Stability>V</Stability>
+    </MagicBind>
+    <MovementBind>
+      <Left>A</Left>
+      <Right>D</Right>
+      <Up>W</Up>
+      <Down>S</Down>
+    </MovementBind>
+    <DeveloperBind>
+      <DeveloperConsoleToggle>F1</DeveloperConsoleToggle>
+      <MenuToggle>Escape</MenuToggle>
+    </DeveloperBind>
+  </Controller>
+</Settings>
